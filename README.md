@@ -14,7 +14,7 @@
 
 <div align="left">
   <p>
-    This repository contains the code for the startpage that can be seen on **[my personal website](https://kelaun.be/startpage)**.
+    This repository contains the code for the startpage that can be seen on <a href="https://kelaun.be/startpage">my personal website</a>.
     This startpage includes the following elements:
     <ul>
       <li>A welcome message</li>
