@@ -16,7 +16,7 @@
 <p align="left">
 This repository contains the code for the startpage that can be seen on **[my personal website](https://kelaun.be/startpage)**.
 This startpage includes the following elements:
-<ul>
+<ul align="left">
   <li>A welcome message</li>
   <li>A clock</li>
   <li>A Search function</li>
