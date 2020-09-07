@@ -10,4 +10,21 @@
 
 <img src="https://raw.githubusercontent.com/kelaun/screenshots/master/startpage.png" align="center">
 
+<br>
+
+### Welcome to the startpage of Kelaun
+<p align="left">
+This repository contains the code for the startpage that can be seen on **[my personal website](https://kelaun.be/startpage)**.
+This startpage includes the following elements:
+- A welcome message
+- A clock
+- A Search function
+- Shortcuts to the following websites:
+	- Youtube
+	- Github
+	- Spotify
+	- Twitch
+	- Reddit
+</p>
+
 </div>
