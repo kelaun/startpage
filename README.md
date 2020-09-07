@@ -1,34 +1,33 @@
 <div align="center">
-    <h3 align="center">
-    	Minimalist startpage
-    </h3>
+  <h3>Minimalist startpage</h3>
 </div>
 
-<div align="center">
-	
-[![maintained](https://img.shields.io/maintenance/yes/2020?label=maintained&style=flat-square)](https://github.com/kelaun/startpage/commits/master) [![contributions](https://img.shields.io/badge/contribution-welcome-brightgreen&?style=flat-square)](https://github.com/kelaun/startpage/pulls) [![HitCount](http://hits.dwyl.com/kelaun/startpage.svg)](http://hits.dwyl.com/kelaun/startpage)
+<div align="center">	
+  [![maintained](https://img.shields.io/maintenance/yes/2020?label=maintained&style=flat-square)](https://github.com/kelaun/startpage/commits/master) [![contributions](https://img.shields.io/badge/contribution-welcome-brightgreen&?style=flat-square)](https://github.com/kelaun/startpage/pulls) [![HitCount](http://hits.dwyl.com/kelaun/startpage.svg)](http://hits.dwyl.com/kelaun/startpage)
 
-<img src="https://raw.githubusercontent.com/kelaun/screenshots/master/startpage.png" align="center">
+  <img src="https://raw.githubusercontent.com/kelaun/screenshots/master/startpage.png" align="center">
 
-<br>
+  <br>
 
-### Welcome to the startpage of Kelaun
-<p align="left">
-This repository contains the code for the startpage that can be seen on **[my personal website](https://kelaun.be/startpage)**.
-This startpage includes the following elements:
-<ul align="left">
-  <li>A welcome message</li>
-  <li>A clock</li>
-  <li>A Search function</li>
-  <li>Shortcuts to the following websites:</li>
-  <ul>
-    <li>Youtube</li>
-    <li>Github</li>
-    <li>Spotify</li>
-    <li>Twitch</li>
-    <li>Reddit</li>
-  </ul>
-</ul>
-</p>
+  ### Welcome to the startpage of Kelaun
+</div>
 
+<div align="left">
+  <p>
+    This repository contains the code for the startpage that can be seen on **[my personal website](https://kelaun.be/startpage)**.
+    This startpage includes the following elements:
+    <ul>
+      <li>A welcome message</li>
+      <li>A clock</li>
+      <li>A Search function</li>
+      <li>Shortcuts to the following websites:</li>
+      <ul>
+        <li>Youtube</li>
+        <li>Github</li>
+        <li>Spotify</li>
+        <li>Twitch</li>
+        <li>Reddit</li>
+      </ul>
+    </ul>
+  </p>
 </div>
