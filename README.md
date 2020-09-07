@@ -16,15 +16,19 @@
 <p align="left">
 This repository contains the code for the startpage that can be seen on **[my personal website](https://kelaun.be/startpage)**.
 This startpage includes the following elements:
-- A welcome message
-- A clock
-- A Search function
-- Shortcuts to the following websites:
-	- Youtube
-	- Github
-	- Spotify
-	- Twitch
-	- Reddit
+<ul>
+  <li>A welcome message</li>
+  <li>A clock</li>
+  <li>A Search function</li>
+  <li>Shortcuts to the following websites:</li>
+  <ul>
+    <li>Youtube</li>
+    <li>Github</li>
+    <li>Spotify</li>
+    <li>Twitch</li>
+    <li>Reddit</li>
+  </ul>
+</ul>
 </p>
 
 </div>
