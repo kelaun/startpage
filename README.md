@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Minimalist startpage</h3>
+  <h1>Minimalist startpage</h1>
 </div>
 
 <div align="center">	
@@ -9,7 +9,7 @@
 
   <br>
 
-  ### Welcome to the startpage of Kelaun
+  <h2>Welcome to the startpage of Kelaun</h2>
 </div>
 
 <div align="left">
@@ -30,4 +30,23 @@
       </ul>
     </ul>
   </p>
+  <br>
+  <h3>Customization</h3>
+  <h4>Background</h4>
+  <p>
+    The background can be changed by moving your image to the img directory and naming it bg.jpg.
+  </p>
+  <h4>Username</h4>
+  <p>
+    The username can be changed in the file index.html at the line 17.
+  </p>
+  <h4>Search</h4>
+  <p>
+    The search is using DuckDuckGo by default, but this can be changed by changing line 20 in the index.html file.
+  </p>
+  <h4>Shortcuts</h4>
+  <p>
+    The images for the shortcuts can be changed by changing the numbered images in the img folder.<br>
+    The URLs can be changed in the index.html file as of line 26.
+  </p> 	
 </div>
